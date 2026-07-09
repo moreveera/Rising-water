@@ -1,0 +1,11 @@
+Rainfall,River_Level,Temperature,Humidity,Flood_Risk
+120,8,30,80,High
+100,7,29,75,High 
+90,6,28,70,Medium
+70,5,31,65,Medium
+50,3,33,55,Low
+40,2,34,50,Low
+130,9,27,85,High
+60,4,32,60,Medium
+30,1,35,45,Low
+110,8,29,78,High
