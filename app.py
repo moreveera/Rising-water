@@ -1,5 +1,5 @@
 import streamlit as st
-import joblib
+
 
 # Page configuration
 st.set_page_config(
@@ -20,11 +20,6 @@ st.markdown("""
 }
 </style>
 """, unsafe_allow_html=True)
-
-
-
-# Load trained model
-model = joblib.load("model.pkl")
 
 # Title
 st.markdown("<h1>🌊 Rising Waters</h1>", unsafe_allow_html=True)
